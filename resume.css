@@ -81,7 +81,7 @@ header .profile-image:hover {
   background-color: #B2AF37;
   color: white;
   padding: 10px;
-  border-radius: 5px;
+  border-radius: 15px;
   display: table;
   margin: 10px auto;
 }
@@ -96,7 +96,7 @@ header .profile-image:hover {
   text-align: left;
   background: #fff;
   border-bottom: 4px solid #ccc;
-  border-radius: 6px;
+  border-radius: 25px;
 }
 .wide-card:hover {
   border-color: #B2AF37;
